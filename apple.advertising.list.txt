@@ -3,6 +3,7 @@
 # Author: carloscomputer
 #
 # Home: https://github.com/carloscomputer/apple.advertising
+# Link for pi-hole: https://raw.githubusercontent.com/carloscomputer/apple.advertising/main/apple.advertising.list.txt
 # 
 # Updated: 24 April 2022
 #
