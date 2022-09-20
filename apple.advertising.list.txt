@@ -9,30 +9,30 @@
 #
 #
 #BEGIN BLOCKLIST#
-iad.apple.com 
-cs.iadsdk.apple.com 
-iadsdk.apple.com 
-news.iadsdk.apple.com 
-proxy.advp.apple.com 
-cf.iadsdk.apple.com 
-su.iadsdk.apple.com 
-launch.apple.com 
-ca.iadsdk.apple.com 
-ut.iadsdk.apple.com 
-iadworkbench.apple.com 
-iadctest.qwapi.com 
-tr.iadsdk.apple.com 
-ls.advp.apple.com
-advertising.apple.com
-banners.itunes.apple.com
-iadcontent.apple.com
-iadmoo.apple.com
-qwapi.apple.com
-webproxy.advp.apple.com
-webproxy-advp.iad-apple.com
-webproxy-advp.iad-apple.com.akadns.net
-metrics.apple.com
-securemetrics.apple.com
-apple.comscoreresearch.com
-tr.iadsdk.apple.com
-inappcheck.itunes.apple.com
+0.0.0.0 iad.apple.com 
+0.0.0.0 cs.iadsdk.apple.com 
+0.0.0.0 iadsdk.apple.com 
+0.0.0.0 news.iadsdk.apple.com 
+0.0.0.0 proxy.advp.apple.com 
+0.0.0.0 cf.iadsdk.apple.com 
+0.0.0.0 su.iadsdk.apple.com 
+0.0.0.0 launch.apple.com 
+0.0.0.0 ca.iadsdk.apple.com 
+0.0.0.0 ut.iadsdk.apple.com 
+0.0.0.0 iadworkbench.apple.com 
+0.0.0.0 iadctest.qwapi.com 
+0.0.0.0 tr.iadsdk.apple.com 
+0.0.0.0 ls.advp.apple.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 banners.itunes.apple.com
+0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadmoo.apple.com
+0.0.0.0 qwapi.apple.com
+0.0.0.0 webproxy.advp.apple.com
+0.0.0.0 webproxy-advp.iad-apple.com
+0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
+0.0.0.0 metrics.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 inappcheck.itunes.apple.com
